@@ -1,0 +1,6 @@
+customer_id,name,risk_segment,nationality,is_business,total_anomaly_flags,flag_reason,betweenness_centrality_flag,pagerank_flag,eigenvector_centrality_flag,hub_score_flag,authority_score_flag,turnover_ratio_flag,transaction_efficiency_flag,sleeper_score_flag,cycle_importance_flag,bridge_score_flag,intermediary_score_flag
+CUST0011,Customer_11,high,Rwandan,0,3,High network influence | Sleeper account behavior,0,1,1,0,0,0,0,1,0,0,0
+CUST0084,Customer_84,low,Kenyan,0,3,Unusual network position | High network influence | Likely pass-through or money mule,1,1,0,0,0,0,0,0,0,0,1
+CUST0141,Customer_141,low,Ugandan,1,3,Unusual network position | High network influence,1,0,1,0,1,0,0,0,0,0,0
+CUST0144,Customer_144,low,Kenyan,0,4,Unusual network position | High network influence | Sleeper account behavior | Likely pass-through or money mule,1,0,1,0,0,0,0,1,0,0,1
+CUST0165,Customer_165,medium,Ugandan,0,5,Unusual network position | High network influence | Likely pass-through or money mule,1,1,1,0,1,0,0,0,0,0,1
